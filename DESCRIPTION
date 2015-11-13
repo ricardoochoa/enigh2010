@@ -3,7 +3,7 @@ Type: Package
 Title: Mexican Household Income and Expenditure Survey 2010
 Version: 0.1
 Date: 2015-05-26
-Author: Ricardo Ochoa, Ilse Avalos
+Author: Ricardo Ochoa, Ilse Avalos, Tania Guerrero
 Maintainer: Ricardo Ochoa <ochoasosaricardo@gmail.com>
 Description: National Income and Expenditure Household Survey, ENIGH 2010 (new construction). Includes the 15 tables which are available at the INEGI portal and one additional table with AGEB data.
 Depends: R (>= 2.10) 

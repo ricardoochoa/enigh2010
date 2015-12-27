@@ -102,4 +102,4 @@ ggplot() +
   facet_grid(group~.)
 ```  
 
-[[https://github.com/ricardoochoa/enigh2010/blob/master/img/example01.png|alt=example01]]
+<img src="https://github.com/ricardoochoa/enigh2010/blob/master/img/example01.png" alt="example01" />
